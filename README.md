@@ -6,8 +6,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-> **"We will not find freedom in permissioned systems."**  
-> — *Inspired by Satoshi Nakamoto*
+> **"Governments are good at cutting off the heads of a centrally controlled network like Napster, but pure P2P networks like Gnutella and Tor seem to be holding their own."**  
+> — *-Satoshi Nakamoto*
 
 ---
 
