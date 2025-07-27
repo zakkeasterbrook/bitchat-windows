@@ -1,0 +1,14 @@
+C:\Users\zakke\Desktop\BitchatWin\bin\Debug\net8.0\BitchatWin.exe
+C:\Users\zakke\Desktop\BitchatWin\bin\Debug\net8.0\BitchatWin.deps.json
+C:\Users\zakke\Desktop\BitchatWin\bin\Debug\net8.0\BitchatWin.runtimeconfig.json
+C:\Users\zakke\Desktop\BitchatWin\bin\Debug\net8.0\BitchatWin.dll
+C:\Users\zakke\Desktop\BitchatWin\bin\Debug\net8.0\BitchatWin.pdb
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\BitchatWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\BitchatWin.AssemblyInfoInputs.cache
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\BitchatWin.AssemblyInfo.cs
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\BitchatWin.csproj.CoreCompileInputs.cache
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\BitchatWin.dll
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\refint\BitchatWin.dll
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\BitchatWin.pdb
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\BitchatWin.genruntimeconfig.cache
+C:\Users\zakke\Desktop\BitchatWin\obj\Debug\net8.0\ref\BitchatWin.dll
