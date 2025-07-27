@@ -113,12 +113,6 @@ MIT — Use it, fork it, improve it.
 
 ```
 
----
-
-Now everything **renders properly** (links open, badges work, screenshot displays).  
-
-Do you want me to **make it look even flashier** with a **banner image** at the top (like a project logo)?  
-Or keep it **clean & hacker-style**?
 ```
 
 
