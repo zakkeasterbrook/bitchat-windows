@@ -31,7 +31,8 @@ this is the **Windows implementation** that didn’t exist — until now.
 ---
 
 ### **Screenshot**
-![Bitchat Windows](screenshot.png)
+![Bitchat Windows](assets/screenshot.png)
+
 
 ---
 
