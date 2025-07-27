@@ -1,8 +1,5 @@
-Got it — you want the **entire README wrapped in a code block for GitHub preview (like you showed)** **but** also want images/links to render **outside** of it.
 
-Here’s the **final working structure**:
 
-````markdown
 # Bitchat Windows
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)
@@ -117,5 +114,5 @@ MIT — Use it, fork it, improve it.
 
 ```
 
-Would you like me to **make it even cleaner by adding a top banner (project logo)** like big open-source projects? Or keep it minimalist and hacker‑style?
+
 ```
