@@ -112,7 +112,3 @@ Centralized messengers can be censored, monitored, or shut down.
 
 MIT — Use it, fork it, improve it.
 
-```
-
-
-```
