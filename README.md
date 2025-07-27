@@ -114,5 +114,5 @@ MIT — Use it, fork it, improve it.
 ```
 
 ```
-
+![Bitchat Windows](assets/screenshot.png)
 
